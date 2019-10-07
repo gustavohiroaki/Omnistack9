@@ -1,0 +1,9 @@
+#filter node modules
+**/node_modules
+
+
+#filter images
+*.jpg
+*.jpeg
+*.png
+*.gif
